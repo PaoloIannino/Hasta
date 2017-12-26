@@ -1,7 +1,7 @@
 # Hasta
 ## Implementation of a website for online auctions ##
 
-This project represents my first experience with web technologies and it is part of the course *Distributed Programming I (2017)* at **Politecnico di Torino**.
+This project represents my first experience with web technologies and is part of the course *Distributed Programming I (2017)* at **Politecnico di Torino**.
 
 Grade: 30/30.
 
