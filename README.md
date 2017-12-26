@@ -3,7 +3,7 @@
 
 This project represents my first experience with web technologies and is part of the course *Distributed Programming I (2017)* at **Politecnico di Torino**.
 
-Grade: 30/30.
+Grade: 30/30
 
 ## Authors
 
