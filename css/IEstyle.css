@@ -1,0 +1,17 @@
+/* @CHARSET "UTF-8"; */
+
+@keyframes spin_and_zoom {
+    from {	
+    		color: white;
+    		background-color: #088F8A;
+    }
+
+    to {
+    		color: #088F8A;
+    		background-color: white;
+	}
+}
+
+#logout_nav{
+	animation: none;
+}

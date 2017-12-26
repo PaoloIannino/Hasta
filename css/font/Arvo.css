@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Arvo';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Arvo'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/DOHAK8DimZJeSQQDpH-4yw.eot */
+		url('Arvo_400.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/WJ6D195CfbTRlIs49IbkFw.woff */
+		url('Arvo_400.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/J0GYVYTizO1mjpT3aOcSbQ.woff2 */
+		url('Arvo_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=mfIKVv9ZziIYgQNVexudYw&skey=40c49b2c9e3d24ba&v=v9#Arvo */
+		url('Arvo_400.svg#Arvo') format('svg'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/MViwy4K6e56oHcyeMzjbCQ.ttf */
+		url('Arvo_400.ttf') format('truetype');
+}

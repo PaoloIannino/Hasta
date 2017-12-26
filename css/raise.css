@@ -1,0 +1,17 @@
+/* @CHARSET "UTF-8"; */
+
+#raise_div{
+	float: right;
+	display: inline;
+	heigth: 80%;
+	width: 31%;
+	text-align: center;
+	margin-top: 3%;
+	margin-right: 10%;
+	
+}
+
+#number_raise{
+	width: 8vw;
+	font-size: 1.35em;
+}

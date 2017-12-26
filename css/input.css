@@ -1,0 +1,42 @@
+/* @CHARSET "UTF-8"; */
+
+input::placeholder {
+  color: white;
+}
+
+.input_button {
+	color: white;
+	background-color: #088F8A;
+	border-width: 0px;
+	border-radius: 10vh;
+	margin-top: 4%;
+	font-size: 1.2em;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+	padding: 1.5vh 1.5vh 1.5vh 1.5vh;
+	
+}
+
+.form_div {
+	margin-top: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 1.3em;
+	text-align: center;
+	overflow: hidden;
+}
+
+.input_box {
+	border-radius: 5vh;
+	color: white;
+	background-color: #088F8A;
+	border-width: 0px;
+	padding-left: 1.5vh;
+	padding-right: 1.5vh;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 0.75em;
+}
+
+.email_box {
+	width: 35vh;
+}

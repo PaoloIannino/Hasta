@@ -1,0 +1,8 @@
+/* @CHARSET "UTF-8"; */
+
+.disabled {
+	text-align: center;
+	margin-top: 23vh;
+	color: red;
+	font-size: 3vh;
+}
